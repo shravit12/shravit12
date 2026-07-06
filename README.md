@@ -117,9 +117,9 @@ My goal is to create software like:
 - ❤️ Open Source Contributions
 
 ---
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=shravit12&show_icons=true&theme=github_dark&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shravit12&theme=github-dark)](https://github.com/shravit12)
 
 # 📫 Connect With Me
 
